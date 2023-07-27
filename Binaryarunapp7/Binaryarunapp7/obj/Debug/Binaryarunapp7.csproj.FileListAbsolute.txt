@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\bin\Debug\Binaryarunapp7.exe.config
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\bin\Debug\Binaryarunapp7.exe
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\bin\Debug\Binaryarunapp7.pdb
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\obj\Debug\Binaryarunapp7.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\obj\Debug\Binaryarunapp7.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\obj\Debug\Binaryarunapp7.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\obj\Debug\Binaryarunapp7.exe
+D:\Assisted projects\Section8\Binaryarunapp7\Binaryarunapp7\obj\Debug\Binaryarunapp7.pdb

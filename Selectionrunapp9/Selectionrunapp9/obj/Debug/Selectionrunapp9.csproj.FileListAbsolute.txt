@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\bin\Debug\Selectionrunapp9.exe.config
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\bin\Debug\Selectionrunapp9.exe
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\bin\Debug\Selectionrunapp9.pdb
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\obj\Debug\Selectionrunapp9.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\obj\Debug\Selectionrunapp9.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\obj\Debug\Selectionrunapp9.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\obj\Debug\Selectionrunapp9.exe
+D:\Assisted projects\Section8\Selectionrunapp9\Selectionrunapp9\obj\Debug\Selectionrunapp9.pdb

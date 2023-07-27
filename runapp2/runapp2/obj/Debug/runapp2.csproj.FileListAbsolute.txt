@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\runapp2\runapp2\bin\Debug\runapp2.exe.config
+D:\Assisted projects\Section8\runapp2\runapp2\bin\Debug\runapp2.exe
+D:\Assisted projects\Section8\runapp2\runapp2\bin\Debug\runapp2.pdb
+D:\Assisted projects\Section8\runapp2\runapp2\obj\Debug\runapp2.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\runapp2\runapp2\obj\Debug\runapp2.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\runapp2\runapp2\obj\Debug\runapp2.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\runapp2\runapp2\obj\Debug\runapp2.exe
+D:\Assisted projects\Section8\runapp2\runapp2\obj\Debug\runapp2.pdb

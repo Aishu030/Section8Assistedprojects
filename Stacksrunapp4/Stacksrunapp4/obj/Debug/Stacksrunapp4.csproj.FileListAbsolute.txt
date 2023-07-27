@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\bin\Debug\Stacksrunapp4.exe.config
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\bin\Debug\Stacksrunapp4.exe
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\bin\Debug\Stacksrunapp4.pdb
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\obj\Debug\Stacksrunapp4.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\obj\Debug\Stacksrunapp4.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\obj\Debug\Stacksrunapp4.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\obj\Debug\Stacksrunapp4.exe
+D:\Assisted projects\Section8\Stacksrunapp4\Stacksrunapp4\obj\Debug\Stacksrunapp4.pdb

@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\bin\Debug\Linearrunapp6.exe.config
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\bin\Debug\Linearrunapp6.exe
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\bin\Debug\Linearrunapp6.pdb
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\obj\Debug\Linearrunapp6.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\obj\Debug\Linearrunapp6.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\obj\Debug\Linearrunapp6.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\obj\Debug\Linearrunapp6.exe
+D:\Assisted projects\Section8\Linearrunapp6\Linearrunapp6\obj\Debug\Linearrunapp6.pdb

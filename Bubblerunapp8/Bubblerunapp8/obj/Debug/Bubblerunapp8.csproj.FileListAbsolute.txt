@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\bin\Debug\Bubblerunapp8.exe.config
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\bin\Debug\Bubblerunapp8.exe
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\bin\Debug\Bubblerunapp8.pdb
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\obj\Debug\Bubblerunapp8.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\obj\Debug\Bubblerunapp8.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\obj\Debug\Bubblerunapp8.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\obj\Debug\Bubblerunapp8.exe
+D:\Assisted projects\Section8\Bubblerunapp8\Bubblerunapp8\obj\Debug\Bubblerunapp8.pdb

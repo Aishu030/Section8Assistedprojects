@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\bin\Debug\DLLrunapp3.exe.config
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\bin\Debug\DLLrunapp3.exe
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\bin\Debug\DLLrunapp3.pdb
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\obj\Debug\DLLrunapp3.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\obj\Debug\DLLrunapp3.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\obj\Debug\DLLrunapp3.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\obj\Debug\DLLrunapp3.exe
+D:\Assisted projects\Section8\DLLrunapp3\DLLrunapp3\obj\Debug\DLLrunapp3.pdb

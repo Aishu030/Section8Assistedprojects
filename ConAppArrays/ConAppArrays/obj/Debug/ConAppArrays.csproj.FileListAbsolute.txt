@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\bin\Debug\ConAppArrays.exe.config
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\bin\Debug\ConAppArrays.exe
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\bin\Debug\ConAppArrays.pdb
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\obj\Debug\ConAppArrays.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\obj\Debug\ConAppArrays.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\obj\Debug\ConAppArrays.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\obj\Debug\ConAppArrays.exe
+D:\Assisted projects\Section8\ConAppArrays\ConAppArrays\obj\Debug\ConAppArrays.pdb
