@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\bin\Debug\Mergerunapp13.exe.config
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\bin\Debug\Mergerunapp13.exe
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\bin\Debug\Mergerunapp13.pdb
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\obj\Debug\Mergerunapp13.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\obj\Debug\Mergerunapp13.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\obj\Debug\Mergerunapp13.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\obj\Debug\Mergerunapp13.exe
+D:\Assisted projects\Section8\Mergerunapp13\Mergerunapp13\obj\Debug\Mergerunapp13.pdb

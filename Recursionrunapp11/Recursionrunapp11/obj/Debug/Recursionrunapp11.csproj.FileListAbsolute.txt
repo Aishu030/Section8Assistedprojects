@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\bin\Debug\Recursionrunapp11.exe.config
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\bin\Debug\Recursionrunapp11.exe
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\bin\Debug\Recursionrunapp11.pdb
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\obj\Debug\Recursionrunapp11.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\obj\Debug\Recursionrunapp11.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\obj\Debug\Recursionrunapp11.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\obj\Debug\Recursionrunapp11.exe
+D:\Assisted projects\Section8\Recursionrunapp11\Recursionrunapp11\obj\Debug\Recursionrunapp11.pdb

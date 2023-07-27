@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\bin\Debug\Quickrunapp14.exe.config
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\bin\Debug\Quickrunapp14.exe
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\bin\Debug\Quickrunapp14.pdb
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\obj\Debug\Quickrunapp14.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\obj\Debug\Quickrunapp14.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\obj\Debug\Quickrunapp14.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\obj\Debug\Quickrunapp14.exe
+D:\Assisted projects\Section8\Quickrunapp14\Quickrunapp14\obj\Debug\Quickrunapp14.pdb

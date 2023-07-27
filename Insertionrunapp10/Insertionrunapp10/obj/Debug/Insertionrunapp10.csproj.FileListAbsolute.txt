@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\bin\Debug\Insertionrunapp10.exe.config
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\bin\Debug\Insertionrunapp10.exe
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\bin\Debug\Insertionrunapp10.pdb
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\obj\Debug\Insertionrunapp10.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\obj\Debug\Insertionrunapp10.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\obj\Debug\Insertionrunapp10.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\obj\Debug\Insertionrunapp10.exe
+D:\Assisted projects\Section8\Insertionrunapp10\Insertionrunapp10\obj\Debug\Insertionrunapp10.pdb

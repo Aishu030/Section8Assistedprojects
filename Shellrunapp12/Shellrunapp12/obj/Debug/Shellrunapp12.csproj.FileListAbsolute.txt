@@ -1,0 +1,8 @@
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\bin\Debug\Shellrunapp12.exe.config
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\bin\Debug\Shellrunapp12.exe
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\bin\Debug\Shellrunapp12.pdb
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\obj\Debug\Shellrunapp12.csproj.AssemblyReference.cache
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\obj\Debug\Shellrunapp12.csproj.SuggestedBindingRedirects.cache
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\obj\Debug\Shellrunapp12.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\obj\Debug\Shellrunapp12.exe
+D:\Assisted projects\Section8\Shellrunapp12\Shellrunapp12\obj\Debug\Shellrunapp12.pdb
